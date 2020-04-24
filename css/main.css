@@ -1,0 +1,30 @@
+html {
+  font-family: "Noto Sans Japanese", sans-serif;
+  font-family: "Noto Sans", sans-serif;
+}
+
+
+.jp {
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+.en {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.nv {
+  list-style-type: none;
+}
+
+.border {
+  border-top: 1px solid #e2e2e2;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.bordertop {
+  border-top: 1px solid #e2e2e2;
+}
+
+.grey {
+  color: #e2e2e2;
+}

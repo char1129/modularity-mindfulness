@@ -3,7 +3,7 @@ html {
   font-family: "Noto Sans Japanese", sans-serif;
 }
 
-.jp {
+.ja {
   font-family: "Noto Sans Japanese", sans-serif;
 }
 
@@ -11,12 +11,16 @@ html {
   font-family: "Noto Sans", sans-serif;
 }
 
-.nava {
-  list-style-type: none;
+.bb {
+  border-bottom: 1px solid #8bc9d9;
+}
+
+.nv {
+  text-decoration: none;
   color: #8bc9d9;
 }
 
-.nav a:hover {
+li a:hover {
   color: #005e76;
 }
 

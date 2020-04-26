@@ -3,12 +3,8 @@ html {
   font-family: "Noto Sans Japanese", sans-serif;
 }
 
-.ja {
-  font-family: "Noto Sans Japanese", sans-serif;
-}
-
-.en {
-  font-family: "Noto Sans", sans-serif;
+.blk {
+  color: #000;
 }
 
 .bb {
@@ -33,9 +29,9 @@ li a:hover {
   border-top: 1px solid #e2e2e2;
 }
 
-.grey {
-  color: #e2e2e2;
-}
+/* .grey {
+  color: #0084a6;
+} */
 
 .btn-ghost {
   border-color: #8bc9d9;

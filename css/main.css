@@ -17,11 +17,11 @@ html {
 
 .nv {
   text-decoration: none;
-  color: #8bc9d9;
+  color: #005e76;
 }
 
 li a:hover {
-  color: #005e76;
+  color: #8bc9d9;
 }
 
 .border {

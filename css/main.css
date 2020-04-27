@@ -11,17 +11,36 @@ html {
   border-bottom: 1px solid #8bc9d9;
 }
 
+li {
+  text-decoration: none;
+}
+
+.ib {
+  text-decoration: none;
+}
+
+.list-group-inline {
+  text-decoration: none;
+}
+
 .nv {
   text-decoration: none;
   color: #005e76;
+}
+
+a {
+  text-decoration: none;
+}
+
+li a {
+  text-decoration: none;
 }
 
 li a:hover {
   color: #8bc9d9;
 }
 
-.border {
-  border-top: 1px solid #e2e2e2;
+.borderbottom {
   border-bottom: 1px solid #e2e2e2;
 }
 
@@ -46,8 +65,24 @@ li a:hover {
 
 @media only screen and (min-width: 60em) {
 
+  .title {
+    text-align: left;
+  }
+
+  .nav {
+    text-align: right;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
+
+  .title {
+    text-align: center;
+  }
+
+  .nav {
+    text-align: center;
+  }
 
 }

@@ -9,6 +9,7 @@ html {
 
 .bb {
   border-bottom: 1px solid #8bc9d9;
+  border-width: thin;
 }
 
 .nv {
@@ -47,6 +48,10 @@ li a:hover {
   color: #005e76;
 }
 
+.blue {
+  color: #0084a6;
+}
+
 @media only screen and (min-width: 60em) {
 
   .title {
@@ -66,17 +71,20 @@ li a:hover {
     text-align: center;
   }
 
+  /* .adjust1 {
+    padding-top: .5rem;
+  } */
+
 }
 
 @media only screen and (min-width: 90em) {
-
-  .title {
+  /* .title {
     padding-left: 7rem;
-  }
+  } */
 
-  .nav {
+  /* .nav {
     text-align: center;
-  }
+  } */
 
   .squishtwo {
     width: 25%;

@@ -11,18 +11,6 @@ html {
   border-bottom: 1px solid #8bc9d9;
 }
 
-li {
-  text-decoration: none;
-}
-
-.ib {
-  text-decoration: none;
-}
-
-.list-group-inline {
-  text-decoration: none;
-}
-
 .nv {
   text-decoration: none;
   color: #005e76;
@@ -48,10 +36,6 @@ li a:hover {
   border-top: 1px solid #e2e2e2;
 }
 
-/* .grey {
-  color: #0084a6;
-} */
-
 .btn-ghost {
   border-color: #8bc9d9;
   color: #005e76;
@@ -73,8 +57,12 @@ li a:hover {
     text-align: right;
   }
 
+  .squishtwo {
+    width: 15%;
+  }
+
   .squish {
-    width: 50%;
+    width: 70%;
     text-align: center;
   }
 
@@ -83,10 +71,19 @@ li a:hover {
 @media only screen and (min-width: 90em) {
 
   .title {
-    text-align: center;
+    padding-left: 7rem;
   }
 
   .nav {
+    text-align: center;
+  }
+
+  .squishtwo {
+    width: 25%;
+  }
+
+  .squish {
+    width: 50%;
     text-align: center;
   }
 
